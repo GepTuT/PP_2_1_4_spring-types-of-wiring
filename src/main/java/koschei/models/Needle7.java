@@ -12,7 +12,7 @@ public class Needle7 {
     }
 
     @Autowired
-    public void setDuck5(Deth8 deth8) {
+    public void setDeth8(Deth8 deth8) {
         this.deth8 = deth8;
     }
 }
